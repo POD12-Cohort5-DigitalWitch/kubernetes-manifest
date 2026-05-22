@@ -29,4 +29,3 @@ spec:
               image: busybox
               command: ["sh", "-c", "echo Hello from CronJob"]
           restartPolicy: Never
-#
